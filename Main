@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title>Compute Loan Payment</title>
+    </head>
+    <body>
+        <p><label>Loan Amount</label>
+        <input type = 'text' name = 'loanAmt' size = '20'/>
+        <label>Annual Interest Rate</label>
+        <input type = 'text' name = 'loanAmt' size = '10'/>
+        <label>Number of Years</label>
+        <input type = 'text' name = 'loanAmt' size = '2'/><p>
+        <button>Compute Loan Payment</Button>
+        <button>Reset</Button>
+   </body>
+/html>
