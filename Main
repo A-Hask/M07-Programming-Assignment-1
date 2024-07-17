@@ -7,9 +7,9 @@
         <label>Loan Amount</label>
         <input type = 'text' name = 'loanAmt' size = '20'/>
         <label>Annual Interest Rate</label>
-        <input type = 'text' name = 'loanAmt' size = '10'/>
+        <input type = 'text' name = 'interestRate' size = '10'/>
         <label>Number of Years</label>
-        <input type = 'text' name = 'loanAmt' size = '2'/>
+        <input type = 'text' name = 'years' size = '2'/>
         <button>Compute Loan Payment</Button>
         <button>Reset</Button>
         </form>
